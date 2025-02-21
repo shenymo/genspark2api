@@ -1,4 +1,7 @@
 # 使用 Golang 镜像作为构建阶段
+# 使用 Golang 镜像作为构建阶段
+# 使用 Golang 镜像作为构建阶段
+# 使用 Golang 镜像作为构建阶段
 FROM golang AS builder
 
 # 设置环境变量
